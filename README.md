@@ -1,8 +1,8 @@
+Url is http://duleorlovic.github.io/channel-viz/
+
 # Xively Channel Visualization
 
 This page is an example of just one of many ways you can visualise your data on Xively.  
-
-Url is http://duleorlovic.github.io/channel-viz/
 
 It was created with open-source tools, and reads data from Xively with the Xively JavaScript library.  
 
